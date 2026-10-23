@@ -13,25 +13,24 @@
     "flywheel": {
       "suite": "Conversion",
       "classification": {
-          "function": [
-            "Conversion"
-          ],
-          "modality": [
-            "Any"
-          ],
-          "organ": [
-            "Any"
-          ],
-          "species": [
-            "Phantom",
-            "Human",
-            "Animal",
-            "Other"
-          ],
-          "therapeutic_area": [
-            "Any"
-          ]
-        }
+        "function": [
+          "Conversion"
+        ],
+        "modality": [
+          "Any"
+        ],
+        "organ": [
+          "Any"
+        ],
+        "species": [
+          "Phantom",
+          "Human",
+          "Animal",
+          "Other"
+        ],
+        "therapeutic_area": [
+          "Any"
+        ]
       }
     },
     "gear-builder": {
